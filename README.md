@@ -1,2 +1,2 @@
 # hello-world 
-Mi name is Yura, i am  from Russia
+My name is Yura, i am  from Russia
